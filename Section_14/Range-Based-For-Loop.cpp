@@ -47,11 +47,11 @@ for (auto c : "Spectacular!")
 //   if (c != ' ')
 //     std::cout << c;
 
- for (auto c: "This is a test")
-   if (c == ' ')
-    std::cout << "\t";
-    else
-      std::cout << c;
+ // for (auto c: "This is a test")
+ //   if (c == ' ')
+ //    std::cout << "\t";
+ //    else
+ //      std::cout << c;
 
 std::cout << std::endl;
 return 0;
